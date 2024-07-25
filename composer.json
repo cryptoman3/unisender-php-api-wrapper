@@ -1,5 +1,5 @@
 {
-    "name": "unisender/api-wrapper",
+    "name": "cryptoman3/unisender-api-wrapper",
     "description": "Unisender API wrapper",
     "type": "library",
     "keywords": ["extension", "unisender", "api"],
